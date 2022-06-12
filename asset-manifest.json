@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scrimba-travel-journal/static/css/main.c334d76b.css",
+    "main.js": "/scrimba-travel-journal/static/js/main.cecd39d8.js",
+    "index.html": "/scrimba-travel-journal/index.html",
+    "static/media/marker.svg": "/scrimba-travel-journal/static/media/marker.1f226562855444fb8b7486883ccc7a0c.svg",
+    "main.c334d76b.css.map": "/scrimba-travel-journal/static/css/main.c334d76b.css.map",
+    "main.cecd39d8.js.map": "/scrimba-travel-journal/static/js/main.cecd39d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c334d76b.css",
+    "static/js/main.cecd39d8.js"
+  ]
+}
